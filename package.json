@@ -1,5 +1,5 @@
 {
-  "name": "Third",
+  "name": "expres_demo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "express-joi-validation": "^5.0.0",
+    "joi": "^13.1.0"
   }
 }
